@@ -1,4 +1,4 @@
 # Admin-Site-React-Flux
 Pluralsight administartion site
 
-Learning React, Flux, Node, Bootstrap, React, Gulp, Browserify router following a tutorial by Corry House
+Learning React, React router, Flux, Node, Bootstrap, Gulp, Browserify following a tutorial by Corry House
